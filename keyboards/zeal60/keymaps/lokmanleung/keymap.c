@@ -1,4 +1,4 @@
-// Default layout for Zeal60
+// Lokman's layout for Zeal60
 
 #include "zeal60.h"
 
